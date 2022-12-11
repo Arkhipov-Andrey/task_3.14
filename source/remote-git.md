@@ -13,7 +13,7 @@
 ### Добавить связь с удаленным репозиторием
 
 ```
-git remote add origin https://github.com/Arkhipov-Andrey/test.git
+git remote add origin https://github.com/Arkhipov-Andrey/task_3.14.git
 ```
 
 ![git remote add](img/git-remote-add.png)
@@ -23,7 +23,7 @@ git remote add origin https://github.com/Arkhipov-Andrey/test.git
 ### Клонирование репозитория с github.com
 
 ```
-git clone https://github.com/Arkhipov-Andrey/test.git
+git clone https://github.com/Arkhipov-Andrey/task_3.14.git
 ```
 
 ### Отобразить связи с удаленным репозиторием
