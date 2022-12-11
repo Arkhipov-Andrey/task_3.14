@@ -13,7 +13,7 @@
 ### Добавить связь с удаленным репозиторием
 
 ```
-git remote add origin https://github.com/Arkhipov-Andrey/test.git
+git remote add origin https://github.com/Arkhipov-Andrey/task_3.14.git
 ```
 
 > _origin - удаленный репозиторий, upstream - удаленный репозиторий с которого сделан fork_
@@ -21,7 +21,7 @@ git remote add origin https://github.com/Arkhipov-Andrey/test.git
 ### Клонирование репозитория с github.com
 
 ```
-git clone https://github.com/Arkhipov-Andrey/test.git
+git clone https://github.com/Arkhipov-Andrey/task_3.14.git
 ```
 
 ### Отобразить связи с удаленным репозиторием
