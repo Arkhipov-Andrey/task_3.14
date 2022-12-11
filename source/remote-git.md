@@ -26,11 +26,15 @@ git remote add origin https://github.com/Arkhipov-Andrey/task_3.14.git
 git clone https://github.com/Arkhipov-Andrey/task_3.14.git
 ```
 
+![git clone](img/git-clone.png)
+
 ### Отобразить связи с удаленным репозиторием
 
 ```
 git remote -v
 ```
+
+![git remote v](img/git-remote-v.png)
 
 ### Отобразить все существующие ветки в текущем репозитории (включая удаленные)
 
@@ -38,11 +42,15 @@ git remote -v
 git branch -a
 ```
 
+![git remote v](img/git-branch-a.png)
+
 ### Отобразить связи веток локального репозитория с ветками удаленного репозитория
 
 ```
 git branch -vv
 ```
+
+![git remote v](img/git-branch-vv.png)
 
 ### Получить перечень изменений из удаленного репозитория
 
@@ -73,7 +81,9 @@ git push
 git push -u origin main
 ```
 
----
+![git push](img/git-push.png)
+
+![git push](img/git-repo.png)
 
 Copyright 2022 Arkhipov Andrey
 
