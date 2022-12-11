@@ -64,6 +64,10 @@ git fetch
 git pull
 ```
 
+![git pull](img/git-pull-1.png)
+
+![git pull](img/git-pull-2.png)
+
 > _Обновляются файлы в РАБОЧЕЙ ДИРЕКТОРИИ_
 
 ### Получить последнюю редакцию ветки main из удаленного репозитория origin
