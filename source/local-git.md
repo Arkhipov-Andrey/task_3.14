@@ -71,6 +71,8 @@ git show
 git checkout 7c901d1c9167499367f1d16fb005243ac269adf2
 ```
 
+![git checkout](img/git-checkout.png)
+
 > _Указать хэш коммита на который необходимо перейти_
 
 ---
