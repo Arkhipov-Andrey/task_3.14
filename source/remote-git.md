@@ -16,6 +16,8 @@
 git remote add origin https://github.com/Arkhipov-Andrey/test.git
 ```
 
+![git remote add](img/git-remote-add.png)
+
 > _origin - удаленный репозиторий, upstream - удаленный репозиторий с которого сделан fork_
 
 ### Клонирование репозитория с github.com
