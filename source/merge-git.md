@@ -20,6 +20,10 @@ git merge fix
 
 > _Слияние текущей ветки main с веткой fix_
 
+![git merge](img/visual-branch-1.png)
+
+![git merge](img/visual-branch-2.png)
+
 ### Перебазирование коммитов одной ветки на другую
 
 ```
